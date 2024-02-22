@@ -1,3 +1,4 @@
+![App Screenshot](https://www.start.io/wp-content/uploads/2022/04/STR_Airbnb-Blog-Post_V1.0.png)
 # Big Data Analysis on New York Airbnb DataSet 🗽
 
 ## Overview
